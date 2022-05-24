@@ -1,1 +1,1 @@
-# HeartDiseases
+The dataset consists of various columns referring to health conditions we have, and a final columns which represented whether we have some heart disease or not. It was the data collected by experts over a long time, and I made use of that to predict whether someone has chances of getting a heart disease based on given factors. For this dataset, I also intended to use SVM model, but I was unable to, because even on Google colab, SVM took over an hour to complete, hence I had to stop it.
